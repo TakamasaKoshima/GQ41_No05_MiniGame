@@ -1,0 +1,12 @@
+﻿  CDirectXGraphics.cpp
+  game.cpp
+  c:\program files (x86)\windows kits\10\include\10.0.18362.0\um\dinput.h: DIRECTINPUT_VERSION undefined. Defaulting to version 0x0800
+  main.cpp
+  Shader.cpp
+  triangle.cpp
+d:\work\vs_work\gq41_no05_summer\gq41_no05_minigame\triangle.cpp(262): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+d:\work\vs_work\gq41_no05_summer\gq41_no05_minigame\triangle.cpp(274): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  triangle2nd.cpp
+  TriangleClass.cpp
+  コードを生成中...
+  GQ41_No05_MiniGame.vcxproj -> D:\work\VS_work\GQ41_No05_Summer\GQ41_No05_MiniGame\x64\Debug\GQ41_No05_MiniGame.exe

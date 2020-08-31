@@ -115,6 +115,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="CDirectInput.h" />
+    <ClInclude Include="CDirectxGraphics.h" />
+    <ClInclude Include="game.h" />
+    <ClInclude Include="Shader.h" />
+    <ClInclude Include="triangle.h" />
+    <ClInclude Include="triangle2nd.h" />
+    <ClInclude Include="TriangleClass.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="CDirectXGraphics.cpp" />
+    <ClCompile Include="game.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Shader.cpp" />
+    <ClCompile Include="triangle.cpp" />
+    <ClCompile Include="triangle2nd.cpp" />
+    <ClCompile Include="TriangleClass.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
